@@ -15,21 +15,20 @@ We specialize in building enterprise-grade software solutions with a focus on pe
 
 ## 📈 GitHub Stats (Team)
 
-<!-- Replace 'nurnahian' with your team/org GitHub usernames -->
+| Contributor | Commits | Pull Requests | Issues | Last Commit |
+|-------------|---------|---------------|--------|-------------|
+| [@alfatah-mis](https://github.com/alfatah-mis) | ![Commits](https://badgen.net/github/commits/alfatah-mis/REPO-NAME) | ![PRs](https://badgen.net/github/prs/alfatah-mis/REPO-NAME) | ![Issues](https://badgen.net/github/issues/alfatah-mis/REPO-NAME) | ![Last commit](https://badgen.net/github/last-commit/alfatah-mis/REPO-NAME) |
 
-| Contributor | Commits | Pull Requests | Issues | Code Frequency |
-|-------------|---------|----------------|--------|----------------|
-| [@nurnahian](https://github.com/nurnahian) | ![Commits](https://badgen.net/github/commits/nurnahian/AFG-ERP-Back-End) | ![PRs](https://badgen.net/github/prs/nurnahian/AFG-ERP-Back-End) | ![Issues](https://badgen.net/github/issues/nurnahian/AFG-ERP-Back-End) | ![Last commit](https://badgen.net/github/last-commit/nurnahian/AFG-ERP-Back-End) |
-| _Add more team members similarly_ |
+> Replace `REPO-NAME` with your actual private/public repository names to show the stats here.
 
 ---
 
 ## 📦 GitHub Repo Stats
 
-![Repo Stars](https://img.shields.io/github/stars/alfatah-mis/Al-Fatah?style=flat-square)
-![Forks](https://img.shields.io/github/forks/alfatah-mis/Al-Fatah?style=flat-square)
-![License](https://img.shields.io/github/license/alfatah-mis/Al-Fatah?style=flat-square)
-![Issues](https://img.shields.io/github/issues/alfatah-mis/Al-Fatah?style=flat-square)
+![Repo Stars](https://img.shields.io/github/stars/alfatah-mis/REPO-NAME?style=flat-square)
+![Forks](https://img.shields.io/github/forks/alfatah-mis/REPO-NAME?style=flat-square)
+![License](https://img.shields.io/github/license/alfatah-mis/REPO-NAME?style=flat-square)
+![Issues](https://img.shields.io/github/issues/alfatah-mis/REPO-NAME?style=flat-square)
 
 ---
 
@@ -55,9 +54,9 @@ We are a team of senior developers focused on:
 
 We follow a GitHub Flow process:
 
-1. Fork → Branch → Commit → PR
-2. Code Review
-3. Merge on Approval
+1. Fork → Branch → Commit → PR  
+2. Code Review  
+3. Merge on Approval  
 
 ---
 
@@ -65,7 +64,7 @@ We follow a GitHub Flow process:
 
 If you're interested in our work or want to collaborate:
 
-- 📧 Email: `team@alfatah.com`
+- 📧 Email: `team@alfatah.com`  
 - 🌐 Website: [AL Fatah MIS](https://alfatahbd.com)
 
 ---
